@@ -29,6 +29,7 @@ namespace Creator
 		/// </summary>
 		private void InitializeComponent()
 		{
+			System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
 			this.label2 = new System.Windows.Forms.Label();
 			this.button2 = new System.Windows.Forms.Button();
 			this.textBox2 = new System.Windows.Forms.TextBox();
@@ -143,6 +144,7 @@ namespace Creator
 			this.Controls.Add(this.button2);
 			this.Controls.Add(this.textBox2);
 			this.Controls.Add(this.label2);
+			this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
 			this.MaximizeBox = false;
 			this.MinimumSize = new System.Drawing.Size(244, 200);
 			this.Name = "Form1";
