@@ -7,7 +7,7 @@
     <ProjectGuid>{2D4C2AE6-5AF2-47D0-B872-D4FF9CC0FA00}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Creator</RootNamespace>
-    <AssemblyName>Creator</AssemblyName>
+    <AssemblyName>Создаватель</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
